@@ -1,0 +1,3 @@
+pollo,1
+papas,2
+arroz,3
